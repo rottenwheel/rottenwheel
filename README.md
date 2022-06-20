@@ -1,9 +1,9 @@
-### Hi there 👋.
-
-FLOSS, privacy & sovereignty enthusiast.
-
-More about my interests, writing, media appearances, contact information and a canary are found over at [rottenwheel.com](https://rottenwheel.com/).
-
-PGP public key: [here](https://pgp.surfnet.nl/pks/lookup?op=get&search=0x1FAD78669DE85DE8).
-
-Fingerprint: 080f330ad043cc0a449a27d71fad78669de85de8.
+<p align='center'>
+<samp>
+  Hi there 👋.<br>
+  FLOSS, privacy & sovereignty enthusiast.<br>
+  More about my interests, writing, media appearances, contact information and a canary are found over at <a href="https://rottenwheel.com/">rottenwheel.com</a>. <br>
+  PGP public key: <a href="https://pgp.surfnet.nl/pks/lookup?op=get&search=0x1FAD78669DE85DE8">here</a>. <br>
+  Fingerprint: 080f330ad043cc0a449a27d71fad78669de85de8. <br>
+</samp>
+</p>
